@@ -1,4 +1,4 @@
-# Hi, I'm Edwin Shi Yang 👋
+# Hi, I'm Edwin
 
 I'm a **Game Developer** passionate about real-time 3D graphics, gameplay systems, and engine architecture. I enjoy building things from the ground up — from custom rendering pipelines to networked game logic.
 
@@ -12,15 +12,6 @@ I'm a **Game Developer** passionate about real-time 3D graphics, gameplay system
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🎮 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **NetChess3D** | 3D networked chess game with AI opponent, Blinn-Phong lighting, and normal mapping | C++, D3D11, HLSL |
-| **AnimViewer3D** | Skeletal animation viewer using Assimp to load FBX files with GPU skinning | C++, D3D11, Assimp |
 
 ---
 
