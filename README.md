@@ -18,7 +18,7 @@ I'm a Game Developer studying at **SMU Guildhall**, with a background in softwar
 
 ## 📊 GitHub Stats
 
-![Edwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edwin-ShiYang&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Edwin-ShiYang&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin-ShiYang&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
