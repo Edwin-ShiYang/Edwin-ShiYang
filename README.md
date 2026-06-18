@@ -10,15 +10,18 @@ I'm a Game Developer studying at **SMU Guildhall**, with a background in softwar
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![DirectX 11](https://img.shields.io/badge/DirectX_11-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Edwin-ShiYang&show_icons=true&theme=tokyonight&hide_border=true)
+![Edwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edwin-ShiYang&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin-ShiYang&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
