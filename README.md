@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Edwin-ShiYang/Edwin-ShiYang/temp/old-school-video-games.gif" width="100%" height="200px" style="object-fit:cover;"/>
+<img src="https://raw.githubusercontent.com/Edwin-ShiYang/Edwin-ShiYang/temp/pacman-banner.gif" width="100%"/>
 
 # Hi, I'm Yang Shi (Edwin) 👋
 
