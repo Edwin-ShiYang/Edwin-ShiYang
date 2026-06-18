@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Edwin-ShiYang/Edwin-ShiYang/temp/old-school-video-games.gif" width="100%" height="200px" style="object-fit:cover;"/>
+
 # Hi, I'm Yang Shi (Edwin) 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&width=600&lines=Game+Developer+%F0%9F%8E%AE;Real-Time+3D+Graphics+%F0%9F%96%A5%EF%B8%8F;Gameplay+Systems+%E2%9A%94%EF%B8%8F;SMU+Guildhall+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
